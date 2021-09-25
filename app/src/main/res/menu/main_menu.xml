@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_raise_fund"
+            android:title="Raise a Fund"
+            android:icon="@drawable/raise_fund_icon" />
+
+        <item
+            android:id="@+id/nav_create_event"
+            android:title="Create an Event"
+            android:icon="@drawable/add_event_icon" />
+
+    </group>
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:title="Home"
+            android:icon="@drawable/home_icon" />
+
+        <item
+            android:id="@+id/nav_fund"
+            android:title="Funds"
+            android:icon="@drawable/funds_icon" />
+
+        <item
+            android:id="@+id/nav_event"
+            android:title="Events"
+            android:icon="@drawable/event_icon" />
+
+        <item
+            android:id="@+id/nav_profile"
+            android:title="Profile"
+            android:icon="@drawable/profile_icon" />
+
+        <item
+            android:id="@+id/nav_profile_manage"
+            android:title="Profile Management"
+            android:icon="@drawable/acc_mange_icon" />
+
+    </group>
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_leaderboard"
+            android:title="Leader Board"
+            android:icon="@drawable/leaderboard_icon" />
+
+        <item
+            android:id="@+id/nav_top_raisers"
+            android:title="Top Raisers"
+            android:icon="@drawable/top_raisers_icon" />
+
+        <item
+            android:id="@+id/nav_logout"
+            android:title="Logout"
+            android:icon="@drawable/logout_icon" />
+
+    </group>
+
+
+</menu>

@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">FinalHope</string>
+    <string name="logoName">Hello There...!</string>
+    <string name="sloganName">Sign In to continue</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="btn_forgetPW">Forget Password?</string>
+    <string name="btn_login">Login</string>
+    <string name="btn_newuser_signup">New User? Sign up</string>
+    <string name="ind_org">Individual / Organization</string>
+    <string name="rdBtn_individual">Individual</string>
+    <string name="rdBtn_organization">Organization</string>
+    <string name="fullName">Full Name</string>
+    <!--    <string name="username">Username</string>-->
+    <string name="email">Email</string>
+    <string name="phoneNo">Phone Number</string>
+    <string name="nic_regno">NIC / Registration Number</string>
+    <!--    <string name="password">Password</string>-->
+    <string name="btn_signup">SignUp</string>
+    <string name="btn_exist_login">Already have an account? Login</string>
+    <string name="txt_name">Sithum Udara</string>
+    <string name="txt_uname">sithum99</string>
+    <string name="mat_fullName">Full Name</string>
+    <string name="mat_username">Username</string>
+    <string name="mat_nic">NIC / Registration Number</string>
+    <string name="mat_email">Email</string>
+    <string name="mat_phone">Phone Number</string>
+    <string name="mat_password">Password</string>
+    <string name="btn_ipdate">Update</string>
+    <string name="btn_delete">Delete</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+</resources>
