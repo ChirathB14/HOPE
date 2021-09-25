@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Artists</string>
+    <string-array name="eventCategories">
+        <item>Please select a category</item>
+        <item>Blood Donation</item>
+        <item>Beach Cleanup</item>
+        <item>Shramadana</item>
+        <item>Other</item>
+    </string-array>
+</resources>
